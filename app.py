@@ -46,7 +46,7 @@ FEATURES = [
 
 # ── Header ──────────────────────────────────────────────────────────────
 st.title("🧠 Parkinson's Disease Detection System")
-st.markdown("**ML-based voice analysis using Radial Basis SVM** | Accuracy: 89.7%")
+st.markdown("**ML-based voice analysis using Fuzzy k-NN** | Accuracy: 94.87%")
 st.markdown("---")
 
 # ── Sidebar: sample data ─────────────────────────────────────────────────
